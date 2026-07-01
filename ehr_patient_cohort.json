@@ -1,0 +1,37 @@
+[
+  {
+    "patient_id": "PT_901",
+    "observation_days": 180,
+    "ptsd_diagnosed": 1,
+    "cohort_strata": "Exposed_SDoH",
+    "clinical_note": "Patient confirmed with clinical PTSD diagnosis 6 months post-trauma event."
+  },
+  {
+    "patient_id": "PT_902",
+    "observation_days": 720,
+    "ptsd_diagnosed": 0,
+    "cohort_strata": "Reference_Group",
+    "clinical_note": "Right-Censored: Patient switched insurance networks at day 720 with no PTSD diagnosis logged."
+  },
+  {
+    "patient_id": "PT_903",
+    "observation_days": 1200,
+    "ptsd_diagnosed": 0,
+    "cohort_strata": "Exposed_SDoH",
+    "clinical_note": "Right-Censored: 3-year study ended; patient remained asymptomatic throughout observation window."
+  },
+  {
+    "patient_id": "PT_904",
+    "observation_days": 90,
+    "ptsd_diagnosed": 1,
+    "cohort_strata": "Exposed_SDoH",
+    "clinical_note": "Patient presented acute symptoms and official diagnosis on day 90."
+  },
+  {
+    "patient_id": "PT_905",
+    "observation_days": 450,
+    "ptsd_diagnosed": 0,
+    "cohort_strata": "Reference_Group",
+    "clinical_note": "Right-Censored: Lost to follow-up after moving out of state at month 15."
+  }
+]
